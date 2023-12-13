@@ -1,7 +1,7 @@
 <h2 align="center">Всем привет👋 Меня зовут Александр Колмаков</h2>
 <h3 align="center">Я аналитик данных</h3>
 
-### Tech Stack:
+### Мои Навыки:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
