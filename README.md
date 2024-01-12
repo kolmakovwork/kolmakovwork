@@ -1,6 +1,10 @@
 <h2 align="center">Всем привет👋 </h2>
 <h3 align="center">Меня зовут Александр. Я аналитик данных 📊</h3>
 
+E-mail: kolmakovmail@ya.ru
+
+Telegram: https://t.me/Alex_N1
+
 ### Мои Навыки:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
